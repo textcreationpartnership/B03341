@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fool and the knave uncas'd or A true narrative of the abominable cheats of Vincent &amp; Collins, two Domincan friers [sic] living in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03341</idno>
+            <idno type="STC">Wing F1418B</idno>
+            <idno type="STC">ESTC R188063</idno>
+            <idno type="EEBO-CITATION">47012452</idno>
+            <idno type="OCLC">ocm 47012452</idno>
+            <idno type="VID">174419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174419)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2687:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fool and the knave uncas'd or A true narrative of the abominable cheats of Vincent &amp; Collins, two Domincan friers [sic] living in London.</title>
+               </titleStmt>
+               <extent>[3], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication taken from text.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quacks and quackery --  London (England) --  17th century.</term>
+               <term>Swindlers and swindling --  Religious aspects --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174419:1"/>
+            <!-- PDF PAGE 89 -->
+            <pb facs="tcp:174419:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 89 -->
+            <p>THE <hi>FOOL and the KNAVE</hi> UNCAS'D Or a true NARRATIVE OF The abominable Cheats OF <hi>VINCENT</hi> &amp; <hi>COLLINS,</hi> TWO Dominican Friers Living in <hi>LONDON.</hi>
+            </p>
+            <p>Printed in the Year 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174419:2"/>
+            <!-- PDF PAGE 90 -->
+            <pb n="1" facs="tcp:174419:2"/>
+            <!-- PDF PAGE 90 -->
+            <head>THE FOOL and the KNAVE Uncas'd, &amp;c.</head>
+            <p>THough this Subject deſerve, nei<g ref="char:EOLhyphen"/>ther Apology, nor Preface, in it ſelf, or is neceſſary to a well qualified Reader; yet ſince it is now expos'd to all, you ſhall have the reaſon Why, at the door, to prevent you from cenſuring after you come in.</p>
+            <p>If it be neceſſary to diſtinguiſh the ſcabbed Sheep from the flock; the infected in Plague<g ref="char:EOLhyphen"/>time, from thoſe in Health; if it be neceſ<g ref="char:EOLhyphen"/>ſary to pull the Sheeps cloathing from the Wolves back; then is it not only lawful, but neceſſary, for me to expoſe this to the World, as well to prevent the Contagion of the wea<g ref="char:EOLhyphen"/>ker ſort of the Flock, and the cenſure of a whole Church for a brace of Impoſtors, as to let all (that have by the inculcation of ſuch odd Precedents conceiv'd a prejudice againſt us) know how much we diſown, diſlike, and hate them, and wiſh, (which is as much
+<pb n="2" facs="tcp:174419:3"/>
+               <!-- PDF PAGE 91 -->wanted as wiſhed) that there were a Power that not only could, but alſo would, take cognizance of, and puniſh ſuch Malefactors, and out of a true compaſſion to the whole Bo<g ref="char:EOLhyphen"/>dy, ſeparate the contagious Members. I de<g ref="char:EOLhyphen"/>clare and own as great a tenderneſs to my Neighbours reputation, as to the Apple of my Eye; and therefore hate and abhor, any Per<g ref="char:EOLhyphen"/>ſon that out of envy, malice, or intereſt, ſhall either whiſper about his Neighbours private frailties, which are only to his own particular prejudice, or to magnifie, and add, what is falſe: But when the publick actions of Perſons, are not only hurtful to themſelves, but reflect up<g ref="char:EOLhyphen"/>on a whole Congregation, and bring a Scan<g ref="char:EOLhyphen"/>dal upon the very Principles of our Religion; it is ſo far from deſerving a cenſure, that there is an obligation ſomewhere incumbent, to let them and their Cheats, be known; that ſo they, and <hi>opprobriums,</hi> and farther conta<g ref="char:EOLhyphen"/>gions may be avoided: I only hang out a Lanthorn, and ſet up a fencing rail at the dangerous precipice: If any Traveller find fault with me, in the night of his ignorance, he'l thank me in the-day light of his better underſtanding. Had not the grand Impoſtor (<hi>Collins</hi>) by ſuborning a Wench to counterfeit her ſelf Demoniac or poſſeſs'd of the De<g ref="char:EOLhyphen"/>vil, brought a great Scandal upon us, and our Religion; Or <hi>Vincent</hi> the like, by making
+<pb n="3" facs="tcp:174419:3"/>
+               <!-- PDF PAGE 91 -->people believe that he and his Wench ſhould dye, and riſe again the third day; and had not the thing been ſo publick, and ridiculous, that even <hi>Poor Robbin</hi> had it in his Divertiſe<g ref="char:EOLhyphen"/>ments, to render our Religion ridiculous, at leaſt to the vulgar; I had been ſilent. But now all things oblige me to this impartial Narrative, and I preſume, that after all theſe weighty Reaſons, and the neceſſity of pub<g ref="char:EOLhyphen"/>liſhing this Paper, no one will be ſo void of Charity as to cenſure me of the want there<g ref="char:EOLhyphen"/>of, for I heartily wiſh the Converſion of ſuch miſcreants, and do declare, I have no pique at their perſons, but what their deportment de<g ref="char:EOLhyphen"/>ſerves, and our neceſſary defence requires; for (in ſhort) 'tis better the publick acts of two notorious Impoſtors ſhould be laid open, cen<g ref="char:EOLhyphen"/>ſur'd, deteſted, and diſown'd, than a whole Congregation, (by ſmothering the ſame) be rendred Scandalous and Odious.</p>
+            <p>
+               <hi>Vincent</hi> and <hi>Collins,</hi> two <hi>Dominican</hi> Friers (for their rare exploits having lately commenced Doctors) are the ſubject of this Diſcourſe, the Stage of their Actions, <hi>London:</hi> What place ſpued them hither, I am as ignorant of, as they of their Native country. Theſe two ubiquitarian Vagabonds having not long ſince taken up their ſtation here, began to conſtult, and joyn their Loggerheads together, what gainful Trade was beſt to drive; amongſt
+<pb n="4" facs="tcp:174419:4"/>
+               <!-- PDF PAGE 92 -->many propos'd, they agreed upon this, which they acted, and I ſhall relate. In the firſt place (for fear their old forreign Names, ſhould retain with them the ſcent of their forreign exploits) they diſcard them, and aſ<g ref="char:EOLhyphen"/>ſume theſe of <hi>Collins</hi> and <hi>Vincent,</hi> this done, (and taking a chearful Cup of the Creature,) they rub up their brazen Faces, and take up their ſtation in the throng of the Fair: But (in all exploits of this kind,) ſome aſſiſtants being neceſſary; they very patly meet with a couple of cunning Jades, as fit for their purpoſe, as a halter for a Thief, theſe they train up for their purpoſes, both to act, and decoy. Firſt <hi>Collins,</hi> who was to act the Con<g ref="char:EOLhyphen"/>jurer or caſter out of Devils, trains up his Wench to make wry Mouths, ugly Faces, ſquint Eyes, to contract, and dilate her Mouth, to lay out her Tongue, to arm it a<g ref="char:EOLhyphen"/>gainſt Fire, to foam at the Mouth with the help of Soap, to make hideous noiſes, to ſpeak through the Noſe (like himſelf with a Pox broken ends of <hi>Latin, Dutch,</hi> and <hi>Iriſh</hi> in<g ref="char:EOLhyphen"/>ſtead of <hi>Greek.</hi> After ſome private tryals how ſhe could perform her part, (as Players do be<g ref="char:EOLhyphen"/>fore their publick Act) (and after having made the whole Town ring, of a Maid poſ<g ref="char:EOLhyphen"/>ſeſs'd with the Devil,) he makes a publick appointment both of time, and place, where, and when, he and the Devil ſhould enter into
+<pb n="5" facs="tcp:174419:4"/>
+               <!-- PDF PAGE 92 -->the Liſts for a ſingle touch in a fair Combat. The eminent place, and more then ordinary Perſons preſent I muſt omit: Now behold all the Spectators preſent, of ſeveral Sexes, Ages, Degrees, and Religions, expecting the re<g ref="char:EOLhyphen"/>ſult of this great enterpriſe: The Wench is brought in bound, her Face made pale with Meal like the Picture of Death, and <hi>Collins</hi> with ſome deluded Aſſiſtants, arm'd with all his hypocritical Engines, in <hi>Pontificalibus</hi> makes his entry, at whoſe preſence, the Wench trem<g ref="char:EOLhyphen"/>bles, begins to foam, to roar, to contract all parts, and in fine to empty her whole Budget of tricks, and as if the Devil were in her, utters ſtrange gibberiſh, which <hi>Collins</hi> the Devils Interpreter explains, to the People, and after having made diſſembling addreſs to the People, falls aboard the Wench, and moſt ſacrilegiouſly abuſes all thoſe venerable Cere<g ref="char:EOLhyphen"/>monies of the Church, in employing them them to a meer Impoſture, and fiction of his own contriving. And parts on both ſides were ſo wickedly well to the life per<g ref="char:EOLhyphen"/>formed, that all ſwallowed the Gudgeon and were well ſatisfied, till one of his Aſ<g ref="char:EOLhyphen"/>ſiſtants, a <hi>Franciſcan</hi> Frier, (who, not privy to <hi>Collins</hi>'s deſign, believed all with the reſt) thinking his Girdle had (as the Jeſuits Pow<g ref="char:EOLhyphen"/>ders) ſome occult quality, or Power over the Devil, rudely thruſt the knot of Saint
+<pb n="7" facs="tcp:174419:5"/>
+               <!-- PDF PAGE 93 -->
+               <hi>Francis</hi> his Cord into her Throat, ſo that the Maid, to avoid a neceſſity of being chok'd, was forc'd to unmask, ſhifts her ſelf by force from the Frier, and in earneſt cries out to the People for Chriſt Jeſus ſake, to aſſiſt her, and reſcue her from the Friers Clutches, which was immediately performed, and <hi>Collins</hi> hiſſed out of the place. <hi>Spectatum admiſſi riſum teneatis amici.</hi> The Maid was afterwards by Authority examined upon Oath, and confeſſed the whole truth of what has been here related.</p>
+            <p>This unfortunate accident, having diſ<g ref="char:EOLhyphen"/>courag'd my Gentleman from appearing any more in publick, he hath yet the confidence left, to hold forth in private Families, and impoſes upon weak ſilly Women (his only audience) and there (to ſhew his admired Talents, in vending his <hi>Rhodomontado</hi> balder<g ref="char:EOLhyphen"/>daſh,) he ſnivels out his profound Nonſenſe, and draws <hi>John Calvin</hi> through the Noſe. So <hi>Exit Collins,</hi> and Enter <hi>Vincent.</hi>
+            </p>
+            <p>You have all, I ſuppoſe, heard of the ſtory of one that liv'd in <hi>Martin Luthers</hi> days, a <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Reformer, who having ſet up for himſelf and bid a defiance to the Pope, and to make himſelf famous in the beginning, by perform<g ref="char:EOLhyphen"/>ing a Miracle, ſuborns a Wench for Money to counterfeit her ſelf dead, that he might raiſe her again to life; but Gods juſt Judge<g ref="char:EOLhyphen"/>ment
+<pb n="7" facs="tcp:174419:5"/>
+               <!-- PDF PAGE 93 -->having ſtrook her dead in earneſt, and he not being able to raiſe her again to life; had (for his Impoſture) much ado to ſave his own life, from the rage of the People. Now whether <hi>Vincent</hi> learnt this trick from the <hi>German</hi> Gentleman, or whether good Wits jump'd, 'tis hard to judge: Yet for mat<g ref="char:EOLhyphen"/>ter of Wit, crave your pardon, for now I think on't, if Frier <hi>Vincents</hi> Head had been as empty of other garbage as of Wit, 'twould have made a brave Drum for Dr. <hi>Fuller</hi> to beat a march on in his Holy War.</p>
+            <p>But to the ſtory; <hi>Vincent</hi> aſpiring to fame in the World, ſlights <hi>Bellarmines</hi> Speculation, <hi>de arte bene moriendi,</hi> having found out a better himſelf in <hi>praxi.</hi> Firſt therefore he inſtructs his Girl, how to counterfeit Death, privately in his Chamber, and how to Act all the dying poſtures, as opening the Mouth, contracting her Limbs, the careleſs hanging of Head, Hands and Legs, as if deſtitute of motion, adding pale, wan, and livid colours proper to each part: This done, he makes the whole Town ring of this great Miracle, which was to be wrought upon the Maid, to wit, that without any previous Sickneſs, ſhe ſhould die juſt at ſuch an hour, and riſe again the third day; And no time would ſerve his turn, to ſhew his <hi>Hocus Pocus</hi> tricks, but the the Holy time of Lent and Good-friday it
+<pb n="8" facs="tcp:174419:6"/>
+               <!-- PDF PAGE 94 -->ſelf; to croſs the Proverb, with the worſer deed on the better day. The time drawing near, all preparations are made for this ſtu<g ref="char:EOLhyphen"/>pendious Miracle; People of different Reli<g ref="char:EOLhyphen"/>gions are invited, they come to the place ap<g ref="char:EOLhyphen"/>pointed; Father <hi>Vincent</hi> then in a ſolemn man<g ref="char:EOLhyphen"/>ner, accompanied with ſome Aſſiſtants, with Bell, Book, and Candle, Croſs, Copes, Holy<g ref="char:EOLhyphen"/>water, Sacrament and Holy Oyls; after a ſmall Nonſenſical Oration fit for the purpoſe, ap<g ref="char:EOLhyphen"/>plying ſeveral Texts of the Holy Scripture, as that he will not ſuffer his Holy Ones to ſee Corruption, uſing the Plural inſtead of the ſingular number. This ended with a profound ſilence and earneſt gazing, every one expects the event, ſome feared their own ſurmiſes might prove true, others that the Wench might prove with Child, and ſo rather bring one into the World than pack out her ſelf: But the critical minute of <hi>Vincents</hi> preſage<g ref="char:EOLhyphen"/>ment being come, the Wench (having her promiſed reward in her Pocket, before hand and fearing ſome miſcarriage in the buſineſs, and conſequently ſhame and puniſhment;) inſtead of dying, burſts out into a profound laughter, as well ſhe might, and so the Im<g ref="char:EOLhyphen"/>poſtor was diſcovered, and <hi>Vincent</hi> hiſſed at by the People. <hi>Vincent</hi> now too late repents his folly of paying People their Wages before their Work was done; and knowing not
+<pb n="9" facs="tcp:174419:6"/>
+               <!-- PDF PAGE 94 -->which way to turn himſelf here, runs into the Country and the Wench after him, whom he durſt not treat but kindly, for fear of farther miſchief; there they ſtaid for the ſpace of one year, till the noiſe was a little over, and then returned to <hi>London,</hi> where <hi>Vincent</hi> fall to his old Trade again, and gets a ſodality of the female Sex about him, and Preaches old Womens dreams and fancies, for Revelations and Miracles. One paſſage I had almoſt forgot that happened to <hi>Vincent</hi> ſince his return from the Country.</p>
+            <p>There is a poor old man in this Town, that once upon a time having ſtolen a Sheepshead, and being apprehended in the fact, is everſince baited by the Boyes in the ſtreets, who follow him in every cornern with loud acclamations of Sheepshead, it happened one day, that Fa<g ref="char:EOLhyphen"/>ther <hi>Vincent</hi> paſſing by, in the midſt of theſe acclamations, and not minding to whom they were directed, ſurmiſed himſelf to be the per<g ref="char:EOLhyphen"/>ſon they hooted at ſo loudly, and in a pannick fear, betakes himſelf to his Heels with his Eyes arſy-verſy, the better to view their ap<g ref="char:EOLhyphen"/>proach; the nimble witted young Fry, diſ<g ref="char:EOLhyphen"/>covering his timerous poſture, and cauſeleſs flying, conclude him a new Sheepshead, and lea<g ref="char:EOLhyphen"/>ving the old hunted Game, purſue the freſh view, with a full cry of nothing but Shepshead, Sheeps<g ref="char:EOLhyphen"/>head a new. <hi>Vincent</hi> finding they got ground
+<pb n="10" facs="tcp:174419:7"/>
+               <!-- PDF PAGE 95 -->upon him, redoubled his fears, and they his pace, ſo that with much ado for that time, he got to ſhelter and eſcaped their fury; but the poor Frier as well, as his Breeches were in a terrible twitter, and next day all the ſodality of Siſters, gave thanks for his Mi<g ref="char:EOLhyphen"/>raculous delivery.</p>
+            <p>Thus you have a brief account of theſe two Montebanks in Religion: I could have wiſh<g ref="char:EOLhyphen"/>ed the ingenious Author of <hi>Hudibras</hi> had light upon this for one of his Subjects, where <hi>Vincent</hi> and <hi>Collins</hi> would have matcht his <hi>Hudibras</hi> and <hi>Ralpho</hi> in all points, and have fitted him to a Cows thumb: Now e'ne let the Players take it up and mould it into a Comedy, 'twill fill their Boxes and Purſes, both eſpecially if they'l but admit <hi>Vincent</hi> and <hi>Collins</hi> to Act their own Parts in Perſon, the beſt Trade they can now drive. Now after all theſe premonitions, and cautions, <hi>Si vulgus vult decipi, decipiatur,</hi> if the People will be chea<g ref="char:EOLhyphen"/>ted let them, and there's an end.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174419:7"/>
+            <!-- PDF PAGE 95 -->
+         </div>
+      </body>
+   </text>
+</TEI>
